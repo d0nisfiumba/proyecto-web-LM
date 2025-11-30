@@ -1,0 +1,17 @@
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Mac (por si alguien con Mac ve tu repo) ---
+.DS_Store
+
+# --- Logs y archivos temporales ---
+*.log
+*.tmp
+
+# --- Carpetas de configuración de editores (VS Code, etc.) ---
+.vscode/
+.idea/
+*.swp
